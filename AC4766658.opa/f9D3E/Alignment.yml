@@ -1,0 +1,19 @@
+segment_sources:
+  IB5809902:
+    type: origin_type
+    relation: translation
+    language: en
+  I79171633:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d552ba40bc984bc4a3d7c5bf3aa2daa1:
+    IB5809902: c89e4283fb5940dba26691e5e788f714
+    I79171633: 66176e93284c4e0a9a3451ddf84e2f32
+  9f59eeb69fea478486fbdbf4b9ff8217:
+    IB5809902: 65730c68432c43eb8a0a20a64e763edd
+    I79171633: 1f3603bd81ea42bbbf6cffd0b594d2f7
+  4b171cf7e5834b27905cd6a052073a28:
+    IB5809902: ee512d3b65a740cd90e2f5008401e720
+    I79171633: e07e12f7814d45afa5294af424423c06
